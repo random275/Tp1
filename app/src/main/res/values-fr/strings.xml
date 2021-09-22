@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Casifolie</string>
+    <string name="btnConnection">Connection</string>
+    <string name="nomHint">Votre nom...</string>
+    <string name="Bonjour">Bonjour</string>
+    <string name="RouletteBtn">Roulette</string>
+    <string name="BanqueBtn">Banque</string>
+    <string name="nbJeton">Nombre de jetons</string>
+    <string name="Jeton">jetons:</string>
+    <string name="valeurInv">Valeur invalide</string>
+    <string name="mise">Mise</string>
+    <string name="mJeux">Mode de jeux</string>
+    <string name="pair">Pair</string>
+    <string name="impair">Impair</string>
+    <string name="predit">Nombre prédit</string>
+    <string name="jouer">Jouer</string>
+    <string name="commander">Commander</string>
+    <string name="errUtilisateur">Veuiller Entré un nom d\'utilisateur!</string>
+    <string name="mJNombre">Tirage de numéro</string>
+    <string name="mJPariter">Pair / Impair</string>
+    <string name="txtRule">Un chiffre de 0 à 5</string>
+    <string name="errJetons">Pas assez de jeton</string>
+    <string name="errPasJetons">Vous n\'avez plus de jeton</string>
+    <string name="errMise">Vous devez mettre une mise!</string>
+    <string name="errPrediction">Vous devez mettre une prédiction!</string>
+    <string name="errRadio">Vous devez sélectionner pair ou impair!</string>
+    <string name="banqueOblige">Vous devez acheter des jetons pour jouez!</string>
+    <string name="victoire">Félicitation! Vous avez gagné:</string>
+</resources>

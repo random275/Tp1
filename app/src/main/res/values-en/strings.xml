@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Casifolie</string>
+    <string name="btnConnection">Login</string>
+    <string name="nomHint">Your name...</string>
+    <string name="Bonjour">Hello</string>
+    <string name="BanqueBtn">Bank</string>
+    <string name="nbJeton">Number of tokens</string>
+    <string name="Jeton">tokens:</string>
+    <string name="valeurInv">Invalid value</string>
+    <string name="mise">Bet</string>
+    <string name="mJeux">Game mode</string>
+    <string name="pair">Even</string>
+    <string name="impair">Odd</string>
+    <string name="predit">Predicted number</string>
+    <string name="jouer">Play</string>
+    <string name="commander">Order</string>
+    <string name="errUtilisateur">Enter a username</string>
+    <string name="mJPariter">Even / Odd</string>
+    <string name="txtRule">A number from 0 to 5</string>
+    <string name="errJetons">Not enough token</string>
+    <string name="errPasJetons">You have no more tokens</string>
+    <string name="errMise">You must put a bet!</string>
+    <string name="errPrediction">You have to put a prediction!</string>
+    <string name="errRadio">You must select odd or even!</string>
+    <string name="banqueOblige">You must buy tokens to play!</string>
+    <string name="RouletteBtn">Roulette</string>
+    <string name="mJNombre">Number draw</string>
+    <string name="victoire">Congratulation! You have won:</string>
+
+</resources>
